@@ -1,8 +1,8 @@
-- To create app
+- Create app
 npx create-react-app my-app
-- To get into app folder
+- Get into app folder
 cd my-app
- - To run app in local host
+ - Run app in local host
 npm start
 
 1. Create an input field (in App component) with a change listener which outputs the length of the entered text below it (e.g. in a paragraph).
