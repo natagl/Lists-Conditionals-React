@@ -1,9 +1,9 @@
 - Create app
-npx create-react-app my-app
+``npx create-react-app my-app``
 - Get into app folder
-cd my-app
+``cd my-app``
  - Run app in local host
-npm start
+``npm start``
 
 1. Create an input field (in App component) with a change listener which outputs the length of the entered text below it (e.g. in a paragraph).
 2. Create a new component (=> ValidationComponent) which receives the text length as a prop
