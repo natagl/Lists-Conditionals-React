@@ -1,6 +1,6 @@
 - Create app
 ``npx create-react-app my-app``
-- Get into app folder
+- Go to app folder
 ``cd my-app``
  - Run app in local host
 ``npm start``
